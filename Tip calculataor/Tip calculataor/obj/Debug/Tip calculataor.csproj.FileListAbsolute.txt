@@ -1,0 +1,10 @@
+C:\Users\shubh\source\repos\Tip calculataor\Tip calculataor\bin\Debug\Tip calculataor.exe.config
+C:\Users\shubh\source\repos\Tip calculataor\Tip calculataor\bin\Debug\Tip calculataor.exe
+C:\Users\shubh\source\repos\Tip calculataor\Tip calculataor\bin\Debug\Tip calculataor.pdb
+C:\Users\shubh\source\repos\Tip calculataor\Tip calculataor\obj\Debug\Tip calculataor.csproj.AssemblyReference.cache
+C:\Users\shubh\source\repos\Tip calculataor\Tip calculataor\obj\Debug\Tip_calculataor.Form1.resources
+C:\Users\shubh\source\repos\Tip calculataor\Tip calculataor\obj\Debug\Tip_calculataor.Properties.Resources.resources
+C:\Users\shubh\source\repos\Tip calculataor\Tip calculataor\obj\Debug\Tip calculataor.csproj.GenerateResource.cache
+C:\Users\shubh\source\repos\Tip calculataor\Tip calculataor\obj\Debug\Tip calculataor.csproj.CoreCompileInputs.cache
+C:\Users\shubh\source\repos\Tip calculataor\Tip calculataor\obj\Debug\Tip calculataor.exe
+C:\Users\shubh\source\repos\Tip calculataor\Tip calculataor\obj\Debug\Tip calculataor.pdb
